@@ -19,6 +19,8 @@ public class CharManagement : MonoBehaviour
     private float Pos4X = 696.0f;
 
     public GameObject Player1Mark;
+    public GameObject Player2Mark;
+
     //
     private bool ButtonChangeBool = true; //一开始是可以更改位置的，按下按键之后一定时间内不行
     private float WaitTime = 0.2f;//更改一次状态之后，一定时间之后才能更改状态

@@ -54,8 +54,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\5_Scripts\1_CharSelect\CharManagement.cs" />
+    <Compile Include="Assets\5_Scripts\2_Game\NoteXObject.cs" />
+    <Compile Include="Assets\5_Scripts\2_Game\NoteBObject.cs" />
     <Compile Include="Assets\5_Scripts\2_Game\MusicMove.cs" />
-    <Compile Include="Assets\5_Scripts\2_Game\NoteObject.cs" />
+    <Compile Include="Assets\5_Scripts\2_Game\NoteYObject.cs" />
+    <Compile Include="Assets\5_Scripts\2_Game\NoteAObject.cs" />
     <Compile Include="Assets\5_Scripts\2_Game\GameManagement.cs" />
     <Compile Include="Assets\5_Scripts\2_Game\PlayerController.cs" />
     <Compile Include="Assets\5_Scripts\2_Game\ButtonStart.cs" />
